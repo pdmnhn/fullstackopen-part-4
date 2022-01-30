@@ -1,0 +1,7 @@
+post http://localhost:3001/api/notes
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eysdXVra2FpIiwiaWQiOiI2MWY1MTE0Nzg3MTJjNmE3OWFkNzg3YzIiLCJpYXQiOjE2NDM1NjYxODN9.FJZ2PwG0FEuvrA4ONaRZhczcrXrnH_yyYBuf8YL2eQQ
+
+{
+    "content": "amazing stuffs happen in no time, you see?"
+}
